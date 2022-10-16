@@ -63,7 +63,7 @@ const Header = () => {
                 <div className="navbar-right">
                     <ul>
                         <li className="navbar-email" onClick={handleAccount}>
-                            platzi@example.com
+                            villegas_P
                         </li>
                         <li className="navbar-shopping-cart" onClick={handleMyOrders}>
                             <img src=""alt="shopping cart" />

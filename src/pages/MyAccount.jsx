@@ -11,7 +11,7 @@ const MyAccount = () => {
                       <label htmlFor="name" className="label">Name</label>
                       <p className="value">Camila Yokoo</p>
                       <label htmlFor="email" className="label">Email</label>
-                      <p className="value">camilayokoo@gmail.com</p>
+                      <p className="value">villegasp330@gmial.com</p>
                       <label htmlFor="password" className="label">Password</label>
                       <p className="value">*********</p>
                       <input type="submit" value="Edit" className="secondary-button login-button" />

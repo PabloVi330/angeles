@@ -19,7 +19,7 @@ const Login = () => {
         <h1 className="login-title">Wellcomne</h1>
         <form action="/" className="login-form" ref={form}>
           <label htmlFor="email" className="login-label">Email address</label>
-          <input type="text" name="email" placeholder="platzi@example.cm" className="login-input input-email" />
+          <input type="text" name="email" placeholder="villegas Pablo" className="login-input input-email" />
           <label htmlFor="password" className="login-label">Password</label>
           <input type="password" name="password" placeholder="*********" className="login-input input-password" />
           <button className="login-primary-button login-button" onClick={handleSubmit} >
